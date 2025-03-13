@@ -22,4 +22,4 @@ So in the end I ended up with THIS, a UI to search for a device and then try to 
 - Navigate the list to find the device you want to toggle
 - Once you selected the device you want to toggle press the **Toggle** button
 - The name of the device you last toggled will be saved so the next time you start the program you won't need to find it again.
-
+- **I HAVE NO IDEA WHAT HAPPENS IF YOU DISABLE YOUR MAIN DISPLAY DRIVER!!**
